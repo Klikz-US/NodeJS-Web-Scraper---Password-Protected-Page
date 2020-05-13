@@ -1,0 +1,15 @@
+Enveloping start of file...
+Request sent to page: /admin/pet?id=1090296
+Request sent to page: /admin/pet?id=1090295
+Scraping completed page: /admin/pet?id=1090296, index: 1
+Scraping completed page: /admin/pet?id=1090295, index: 2
+Request sent to page: /admin/pet?id=1090294
+Request sent to page: /admin/pet?id=1090292
+Scraping completed page: /admin/pet?id=1090292, index: 4
+Scraping completed page: /admin/pet?id=1090294, index: 3
+Request sent to page: /admin/pet?id=1090290
+Request sent to page: /admin/pet?id=1090293
+Scraping completed page: /admin/pet?id=1090290, index: 6
+Scraping completed page: /admin/pet?id=1090293, index: 5
+Scraping completed successfully!!!s
+Enveloping end of file...
